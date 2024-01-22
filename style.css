@@ -20,7 +20,7 @@ main{
     padding: 30px;
     border-radius: 10px;
     background-color: transparent;
-    backdrop-filter: blur(20px);
+    backdrop-filter: blur(0);
     border: 2px solid whitesmoke;
     display: flex;
     flex-direction: column;
