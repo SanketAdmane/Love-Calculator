@@ -59,7 +59,10 @@ i{
 button{
     padding: 10px;
     border-radius: 25px;
-    border: none;
+    background: transparent;
+    border: 1px solid white;
+    color: white;
     cursor: pointer;
     font-size: 18px;
+    font-weight: 600;
 }
