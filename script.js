@@ -22,6 +22,8 @@ const init = () => {
             confettiNumber: 30,
           })
     }
+    console.log(name1.value);
+    console.log(name2.value);
 }
 
 const calculateLoveBetween = (name1, name2) => {
